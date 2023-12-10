@@ -10,6 +10,15 @@ Clone this repo into your Sublime Merge Package directory. You can
 find this directory by opening `Sublime Merge -> Preferences -> Browse
 Packages...`.
 
+Once you have that path clone this repo to:
+
+```shell
+git clone https://github.com/tinted-theming/base16-sublime-merge.git /path/to/sublime-merge/Packages/base16-sublime-merge
+```
+
+For use with [base16-shell] hooks, make sure the directory name the
+repository is cloned to is specifically `base16-sublime-merge`.
+
 ## Usage
 
 Open your Sublime Merge Settings file. `Sublime Merge -> Preferences ->
@@ -48,3 +57,4 @@ themes. I used their source code in generating the template used here.
 [base16-schemes]: https://github.com/tinted-theming/base16-schemes
 [Sublime Merge]: https://www.sublimemerge.com/
 [base16-gallery]: https://tinted-theming.github.io/base16-gallery/
+[base16-shell]: https://github.com/tinted-theming/base16-shell
