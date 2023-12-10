@@ -33,6 +33,11 @@ is an example with `ayu-dark` scheme set:
 }
 ```
 
+Disclaimer: Some of the colorschemes have issues since the template is
+used for over 200 schemes and getting them all to be perfect can be a
+challenge. I'll have a closer look at the issues if there are requests
+for it.
+
 ## Thanks
 
 Thanks to [Meetio Theme] for creating such high quality SublimeMerge
@@ -42,4 +47,4 @@ themes. I used their source code in generating the template used here.
 [Tinted Theming]: https://github.com/tinted-theming/home
 [base16-schemes]: https://github.com/tinted-theming/base16-schemes
 [Sublime Merge]: https://www.sublimemerge.com/
-[base16-gallery]: https://github.com/tinted-theming/base16-gallery
+[base16-gallery]: https://tinted-theming.github.io/base16-gallery/
