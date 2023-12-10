@@ -1,0 +1,7 @@
+default:
+  extension: .sublime-color-scheme
+  output: colorschemes
+
+theme:
+  extension: .sublime-theme
+  output: themes
