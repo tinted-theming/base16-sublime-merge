@@ -4,7 +4,7 @@
     "meta": {
         "templateAuthor": "Tinted Theming (https://github.com/tinted-theming/sublime-merge)",
         "schemeName": "PaperColor Dark",
-        "schemeAuthor": "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
+        "schemeAuthor": "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
     },
     "variables": {
         "accent": "#d7875f",

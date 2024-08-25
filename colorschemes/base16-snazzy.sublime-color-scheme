@@ -4,7 +4,7 @@
     "meta": {
         "templateAuthor": "Tinted Theming (https://github.com/tinted-theming/sublime-merge)",
         "schemeName": "Snazzy",
-        "schemeAuthor": "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)"
+        "schemeAuthor": "Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)"
     },
     "variables": {
         "accent": "#eff0eb",
